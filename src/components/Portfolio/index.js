@@ -12,22 +12,22 @@ function Portfolio() {
       repo: "https://github.com/kthom42/A-listers"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'TheTechBlog',
       description: 'MERN Stack',
+      link: "https://sorryz23.github.io/TheTechBlog/",
+      repo: "https://github.com/sorryz23/TheTechBlog"
+    },
+    {
+      name: 'StudentResources',
+      description: 'HTML/CSS',
       link: "https://marizol97.github.io/Student-resources-/",
       repo: "https://github.com/Marizol97/Student-resources-"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'PasswordGenerator',
+      description: 'HTML/CSS/JavaScript',
+      link: "https://sorryz23.github.io/Password-Generator/",
+      repo: "https://github.com/sorryz23/Password-Generator"
     },
     {
       name: 'calculator',
