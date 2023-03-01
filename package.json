@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "jsonwebtoken": "^9.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^2.7.2",
@@ -10,6 +11,8 @@
     "react-scripts": "4.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/sorryz23/ReactPortfolio/issues"
   },
-  "homepage": "https://github.com/sorryz23/ReactPortfolio#readme"
+  "homepage": "https://github.com/sorryz23/ReactPortfolio/build"
 }
