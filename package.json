@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jsonwebtoken": "^9.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^16.13.1",
@@ -33,5 +34,18 @@
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0",
     "webpack": "^4.44.2"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorryz23/ReactPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorryz23/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/sorryz23/ReactPortfolio#readme"
 }
