@@ -12,7 +12,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -50,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/sorryz23/ReactPortfolio/issues"
   },
-  "homepage": "https://sorryz23.github.io/ReactPortfolio/"
+  "homepage": "https://github.com/sorryz23/ReactPortfolio/build"
 }
