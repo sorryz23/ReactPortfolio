@@ -35,8 +35,8 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.8.0",
-    "@testing-library/react": "^9.5.0",
-    "webpack": "^4.44.2"
+    "@testing-library/react": "^9.5.0"
+   
   },
   "description": "",
   "main": "index.js",
@@ -50,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/sorryz23/ReactPortfolio/issues"
   },
-  "homepage": "https://github.com/sorryz23/ReactPortfolio/build"
+  "homepage": "https://sorryz23.github.io/ReactPortfolio/"
 }
