@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.60a0eb88.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.fd7e21ec.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.fd7e21ec.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.4a2eb269.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.4a2eb269.js.map",
+    "static/js/2.6ca22f49.chunk.js": "/ReactPortfolio/static/js/2.6ca22f49.chunk.js",
+    "static/js/2.6ca22f49.chunk.js.map": "/ReactPortfolio/static/js/2.6ca22f49.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.60a0eb88.chunk.css.map": "/ReactPortfolio/static/css/main.60a0eb88.chunk.css.map",
+    "static/js/2.6ca22f49.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.6ca22f49.chunk.js.LICENSE.txt",
+    "static/media/Exchange.jpg": "/ReactPortfolio/static/media/Exchange.31d1376c.jpg",
+    "static/media/PasswordGenerator.jpg": "/ReactPortfolio/static/media/PasswordGenerator.1ea34202.jpg",
+    "static/media/StudentResources.jpg": "/ReactPortfolio/static/media/StudentResources.170899b8.jpg",
+    "static/media/TheTechBlog.jpg": "/ReactPortfolio/static/media/TheTechBlog.2c28d405.jpg",
+    "static/media/calculator.jpg": "/ReactPortfolio/static/media/calculator.bb6f4d8d.jpg",
+    "static/media/pexels.35165110.jpg": "/ReactPortfolio/static/media/pexels.35165110.jpg",
+    "static/media/index.css": "/ReactPortfolio/static/media/profile.5c8f3086.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2eb269.js",
+    "static/js/2.6ca22f49.chunk.js",
+    "static/css/main.60a0eb88.chunk.css",
+    "static/js/main.fd7e21ec.chunk.js"
+  ]
+}
