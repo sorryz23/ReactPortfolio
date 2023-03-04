@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sorryz23/ReactPortfolio/static/css/main.d1ae4c7b.chunk.css",
+    "main.js": "/sorryz23/ReactPortfolio/static/js/main.47efac43.chunk.js",
+    "main.js.map": "/sorryz23/ReactPortfolio/static/js/main.47efac43.chunk.js.map",
+    "runtime-main.js": "/sorryz23/ReactPortfolio/static/js/runtime-main.e526394f.js",
+    "runtime-main.js.map": "/sorryz23/ReactPortfolio/static/js/runtime-main.e526394f.js.map",
+    "static/js/2.6ca22f49.chunk.js": "/sorryz23/ReactPortfolio/static/js/2.6ca22f49.chunk.js",
+    "static/js/2.6ca22f49.chunk.js.map": "/sorryz23/ReactPortfolio/static/js/2.6ca22f49.chunk.js.map",
+    "index.html": "/sorryz23/ReactPortfolio/index.html",
+    "static/css/main.d1ae4c7b.chunk.css.map": "/sorryz23/ReactPortfolio/static/css/main.d1ae4c7b.chunk.css.map",
+    "static/js/2.6ca22f49.chunk.js.LICENSE.txt": "/sorryz23/ReactPortfolio/static/js/2.6ca22f49.chunk.js.LICENSE.txt",
+    "static/media/Exchange.jpg": "/sorryz23/ReactPortfolio/static/media/Exchange.31d1376c.jpg",
+    "static/media/PasswordGenerator.jpg": "/sorryz23/ReactPortfolio/static/media/PasswordGenerator.1ea34202.jpg",
+    "static/media/StudentResources.jpg": "/sorryz23/ReactPortfolio/static/media/StudentResources.170899b8.jpg",
+    "static/media/TheTechBlog.jpg": "/sorryz23/ReactPortfolio/static/media/TheTechBlog.2c28d405.jpg",
+    "static/media/calculator.jpg": "/sorryz23/ReactPortfolio/static/media/calculator.bb6f4d8d.jpg",
+    "static/media/pexels.35165110.jpg": "/sorryz23/ReactPortfolio/static/media/pexels.35165110.jpg",
+    "static/media/index.css": "/sorryz23/ReactPortfolio/static/media/profile.5c8f3086.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e526394f.js",
+    "static/js/2.6ca22f49.chunk.js",
+    "static/css/main.d1ae4c7b.chunk.css",
+    "static/js/main.47efac43.chunk.js"
+  ]
+}
